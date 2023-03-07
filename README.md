@@ -4,6 +4,7 @@
 - 🔭 I’m currently looking for a developer job. Checkout my linkedin account.
 - 🌱 I’m currently learning React.JS, Typescript and MySQL
 - 📫 How to reach me: email: kieffer.torricilia@gmail.com 
+- Phone: (19) 991722887
 - Discord: Kieffer Torricilia#7760
 - 😄 Pronouns: he/him
 
